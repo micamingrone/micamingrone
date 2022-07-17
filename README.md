@@ -1,10 +1,15 @@
 - 👋 Hola, mi nombre es Micaela.
 - 👀 Soy de Buenos Aires, Argentina. Tengo 35 años y me encanta la tecnología. 
 - ✏️ Soy maestra de educación primaria hace 14 años, enseñar es mi vocación ❤️.  
-- 💻 Además, me estoy formando como desarrolladora fullstack, aprendí a programar con Javascript y siempre estoy aprendiendo cosas nuevas. 
-- 📚 Tengo conocimientos en frontend con React y del lado del backend, tengo experiencia usando NodeJs con Express. Tengo noción de PHP. 
-- 💾 También manejo bases de datos SQL, SQL Server y ORM's. Además, también he utilizando MongoDB y conozco sobre su funcionamiento. 
+- 💻 Además, me estoy formando como desarrolladora fullstack desde el 2020.
+- 🖱 Aprendí a programar de manera autodidácta, comenzando por HTML y CSS hice mis primeras webs, luego les agregué funcionalidad con Javascript.  
+- 📚 Tengo conocimientos en frontend con React y del lado del backend,con NodeJs con Express. 
+- 🛠 También sé sobre motores de plantillas como Pug y Handlebars.  
+- 🐘 Estoy terminando un bootcamp de formación en programación backend con PHP. Reconozco que me encanta 💘
+- 💾 También manejo bases de datos relacionales. Realicé cursos de formación de SQL Server. También he utilizado MongoDB en algunos proyectos y conozco sobre        su funcionamiento. 
+- 📣 Disfruto mucho de los proyectos que inicio, de buscar ideas y tratar de poner en juego los conocimientos que tengo y seguir investigando para darle valor      a mis desarrollos.
 - 🎵 Me gusta mucho escuchar música y leer. Me apasiona saber, soy muy curiosa y amo estudiar. 
+- 🙋‍♀️ Estoy en búsqueda de mi primer trabajo en IT. 
 
 
 
