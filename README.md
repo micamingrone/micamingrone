@@ -5,7 +5,7 @@
 - 🖱 Aprendí a programar de manera autodidácta, comenzando por HTML y CSS hice mis primeras webs, luego les agregué funcionalidad con Javascript.  
 - 📚 Tengo conocimientos en frontend con React y del lado del backend,con NodeJs con Express. 
 - 🛠 También sé sobre motores de plantillas como Pug y Handlebars.  
-- 🐘 Estoy terminando un bootcamp de formación en programación backend con PHP. Reconozco que me encanta 💘
+- 🐘 Del lado del servidor, aprendí PHP y reconozco que me encanta 💘 Actualmente, estoy aprendiendo a utilizar Laravel. 
 - 💾 También manejo bases de datos relacionales. Realicé cursos de formación de SQL Server. También he utilizado MongoDB en algunos proyectos y conozco sobre        su funcionamiento. 
 - 📣 Disfruto mucho de los proyectos que inicio, de buscar ideas y tratar de poner en juego los conocimientos que tengo y seguir investigando para darle valor      a mis desarrollos.
 - 🎵 Me gusta mucho escuchar música y leer. Me apasiona saber, soy muy curiosa y amo estudiar. 
