@@ -1,7 +1,7 @@
 - 👋 Hola, mi nombre es Micaela.
 - 👀 Soy de Buenos Aires, Argentina. Tengo 36 años y me encanta la tecnología. 
 - ✏️ Soy maestra de educación primaria hace 15 años, enseñar es mi vocación ❤️.  
-- 💻 Además, me estoy formando como desarrolladora fullstack desde el 2020.
+- 💻 Además, me estoy formando como desarrolladora fullstack.
 - 🖱 Aprendí a programar de manera autodidácta, comenzando por HTML y CSS hice mis primeras webs, luego les agregué funcionalidad con Javascript.  
 - 📚 Tengo conocimientos de NodeJs y Express. 
 - 🛠 También sé sobre motores de plantillas como Pug y Handlebars.  
